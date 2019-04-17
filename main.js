@@ -23,7 +23,7 @@ function createWindow() {
         mainWindow.show()
     })
 
-    mainWindow.on('close', fucntion() {
+    mainWindow.on('close', function() {
         mainWindow = null
     })
 }
