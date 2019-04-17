@@ -1,0 +1,19 @@
+{
+    "name": "github_practice_13",
+    "version": "1.0.0",
+    "description": "autoUpdate",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/akhileshkr797/gitHub_Practice_13.git"
+    },
+    "author": "akhilesh",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/akhileshkr797/gitHub_Practice_13/issues"
+    },
+    "homepage": "https://github.com/akhileshkr797/gitHub_Practice_13#readme"
+}
